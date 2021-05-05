@@ -15,12 +15,13 @@ UCLASS()
 class HSKASURVIVALTD_API AMyPlayerController : public APlayerController, public IGenericTeamAgentInterface
 {
 	GENERATED_BODY()
+public:
+	AMyPlayerController(const FObjectInitializer& ObjectInitializer);
+	virtual FGenericTeamId GetGenericTeamId() const override;
 
 private:
 	FGenericTeamId TeamId;
 
-	AMyPlayerController(const FObjectInitializer& ObjectInitializer);
-
-	virtual FGenericTeamId GetGenericTeamId() const override;
+	
 
 };

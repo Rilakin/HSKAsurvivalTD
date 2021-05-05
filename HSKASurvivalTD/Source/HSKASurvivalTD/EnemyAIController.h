@@ -13,7 +13,8 @@ UCLASS()
 class HSKASURVIVALTD_API AEnemyAIController : public AAIController
 {
 	GENERATED_BODY()
-	
-		AEnemyAIController(const FObjectInitializer& ObjectInitializer);
+
+public:
+	AEnemyAIController(const FObjectInitializer& ObjectInitializer);
 
 };

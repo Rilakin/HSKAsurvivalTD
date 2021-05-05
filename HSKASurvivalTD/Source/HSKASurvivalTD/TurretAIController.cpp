@@ -3,3 +3,7 @@
 
 #include "TurretAIController.h"
 
+ATurretAIController::ATurretAIController(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer)
+{
+    SetGenericTeamId(FGenericTeamId(0));
+}

@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeHSKASurvivalTD_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xCD2FD48D,
+				0xD793CFA6,
 				0xB84082D3,
 				METADATA_PARAMS(nullptr, 0)
 			};

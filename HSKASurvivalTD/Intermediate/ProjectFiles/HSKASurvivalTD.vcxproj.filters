@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\HSKASurvivalTD.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F7B0492D-CB05-42A7-93E4-D436F86645FE}</UniqueIdentifier>
+      <UniqueIdentifier>{ABB41B03-0123-4943-A9F0-5E294FBFB2EF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HSKASurvivalTD.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E1BA88C9-BF45-4D9D-80AD-6552F982CD42}</UniqueIdentifier>
+      <UniqueIdentifier>{CE25D57E-1E1F-42BF-BBD3-66726BB25E71}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\SteamVRBindings">
-      <UniqueIdentifier>{9A0A056F-5DDF-468C-A7B1-8787C4C9C228}</UniqueIdentifier>
+      <UniqueIdentifier>{DA704858-07C0-4CFD-AB40-0A62C79E277F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\SteamVRBindings\gamepad.json">
       <Filter>Config\SteamVRBindings</Filter>
@@ -114,7 +114,7 @@
       <Filter>Config\SteamVRBindings</Filter>
     </None>
     <Filter Include="Source\HSKASurvivalTD">
-      <UniqueIdentifier>{38CD5AFF-E576-45D1-AF6B-EF52E3D15410}</UniqueIdentifier>
+      <UniqueIdentifier>{31CB5423-079A-4982-8B41-DA75A9A128A6}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HSKASurvivalTD\EnemyAIController.cpp">
       <Filter>Source\HSKASurvivalTD</Filter>

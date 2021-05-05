@@ -4,16 +4,22 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "GenericTeamAgentInterface.h"
 #include "EnemyCharacter.generated.h"
 
 UCLASS()
-class HSKASURVIVALTD_API AEnemyCharacter : public ACharacter
+class HSKASURVIVALTD_API AEnemyCharacter : public ACharacter, public IGenericTeamAgentInterface
 {
 	GENERATED_BODY()
 
 public:
 	// Sets default values for this character's properties
 	AEnemyCharacter();
+
+private:
+	FGenericTeamId TeamId;
+
+	virtual FGenericTeamId GetGenericTeamId() const override;
 
 protected:
 	// Called when the game starts or when spawned

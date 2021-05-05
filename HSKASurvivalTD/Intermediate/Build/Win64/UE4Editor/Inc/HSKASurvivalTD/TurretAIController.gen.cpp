@@ -44,6 +44,7 @@ void EmptyLinkFunctionForGeneratedCodeTurretAIController() {}
 		{ "HideCategories", "Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "TurretAIController.h" },
 		{ "ModuleRelativePath", "TurretAIController.h" },
+		{ "ObjectInitializerConstructorDeclared", "" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ATurretAIController_Statics::StaticCppClassTypeInfo = {
@@ -73,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeTurretAIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATurretAIController, 3988940187);
+	IMPLEMENT_CLASS(ATurretAIController, 1197282081);
 	template<> HSKASURVIVALTD_API UClass* StaticClass<ATurretAIController>()
 	{
 		return ATurretAIController::StaticClass();

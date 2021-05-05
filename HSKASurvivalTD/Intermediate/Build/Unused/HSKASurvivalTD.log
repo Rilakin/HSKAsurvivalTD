@@ -1,17 +1,21 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (F:\GIT\HSKAsurvivalTD).
   Parsing headers for HSKASurvivalTDEditor
     Running UnrealHeaderTool "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\HSKASurvivalTD.uproject" "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\HSKASurvivalTDEditor\Development\HSKASurvivalTDEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sasch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for HSKASurvivalTDEditor in 4,3160231 seconds
+  Reflection code generated for HSKASurvivalTDEditor in 5,479429 seconds
   Building HSKASurvivalTDEditor...
   Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 6 actions with 12 processes...
-    [1/6] HSKASurvivalTD.init.gen.cpp
-    [2/6] EnemyAIController.cpp
-    [3/6] EnemyAIController.gen.cpp
-    [4/6] UE4Editor-HSKASurvivalTD-0028.lib
-       Bibliothek "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0028.lib" und Objekt "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0028.exp" werden erstellt.
-    [5/6] UE4Editor-HSKASurvivalTD-0028.dll
-       Bibliothek "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0028.suppressed.lib" und Objekt "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0028.suppressed.exp" werden erstellt.
-    [6/6] HSKASurvivalTDEditor.target
-  Total time in Parallel executor: 4,70 seconds
-  Total execution time: 9,82 seconds
+  Building 10 actions with 12 processes...
+    [1/10] HSKASurvivalTD.init.gen.cpp
+    [2/10] EnemyCharacter.cpp
+    [3/10] TurretAIController.cpp
+    [4/10] EnemyAIController.cpp
+    [5/10] TurretAIController.gen.cpp
+    [6/10] EnemyAIController.gen.cpp
+    [7/10] EnemyCharacter.gen.cpp
+    [8/10] UE4Editor-HSKASurvivalTD-0038.lib
+       Bibliothek "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0038.lib" und Objekt "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0038.exp" werden erstellt.
+    [9/10] UE4Editor-HSKASurvivalTD-0038.dll
+       Bibliothek "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0038.suppressed.lib" und Objekt "F:\GIT\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\UE4Editor-HSKASurvivalTD-0038.suppressed.exp" werden erstellt.
+    [10/10] HSKASurvivalTDEditor.target
+  Total time in Parallel executor: 9,70 seconds
+  Total execution time: 16,19 seconds

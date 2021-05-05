@@ -14,4 +14,7 @@ class HSKASURVIVALTD_API ATurretAIController : public AAIController
 {
 	GENERATED_BODY()
 	
+public:
+	ATurretAIController(const FObjectInitializer& ObjectInitializer);
+
 };
