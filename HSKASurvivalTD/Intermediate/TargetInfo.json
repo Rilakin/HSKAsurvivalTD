@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HSKASurvivalTD",
+			"Path": "F:\\GIT\\HSKAsurvivalTD\\HSKASurvivalTD\\Source\\HSKASurvivalTD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HSKASurvivalTDEditor",
+			"Path": "F:\\GIT\\HSKAsurvivalTD\\HSKASurvivalTD\\Source\\HSKASurvivalTDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
