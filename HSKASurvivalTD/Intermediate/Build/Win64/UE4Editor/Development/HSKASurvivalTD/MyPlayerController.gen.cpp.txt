@@ -1,7 +1,0 @@
-J:\Epic Games\Unreal Projects\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Development\HSKASurvivalTD\Definitions.HSKASurvivalTD.h
-J:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-J:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-J:\Epic Games\Unreal Projects\HSKAsurvivalTD\HSKASurvivalTD\Source\HSKASurvivalTD/MyPlayerController.h
-J:\Epic Games\UE_4.26\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
-J:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
-J:\Epic Games\Unreal Projects\HSKAsurvivalTD\HSKASurvivalTD\Intermediate\Build\Win64\UE4Editor\Inc\HSKASurvivalTD\MyPlayerController.generated.h
