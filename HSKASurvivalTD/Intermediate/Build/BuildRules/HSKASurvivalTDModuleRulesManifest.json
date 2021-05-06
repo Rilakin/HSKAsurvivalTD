@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"J:\\Epic Games\\Unreal Projects\\HSKAsurvivalTD\\HSKASurvivalTD\\Source\\HSKASurvivalTD\\HSKASurvivalTD.Build.cs",
+		"J:\\Epic Games\\Unreal Projects\\HSKAsurvivalTD\\HSKASurvivalTD\\Source\\HSKASurvivalTD.Target.cs",
+		"J:\\Epic Games\\Unreal Projects\\HSKAsurvivalTD\\HSKASurvivalTD\\Source\\HSKASurvivalTDEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
