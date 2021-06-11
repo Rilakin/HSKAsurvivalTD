@@ -75,7 +75,3 @@ DerivedDataCache/*
 
 *.log
 HSKASurvivalTD/Saved/Logs/
-HSKASurvivalTD/Content/TopDownBP/Blueprints/AICharacter.uasset
-HSKASurvivalTD/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
-HSKASurvivalTD/Content/TopDownBP/Maps/TopDownExampleMap.umap
-HSKASurvivalTD/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
